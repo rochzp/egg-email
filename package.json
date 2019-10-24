@@ -1,5 +1,5 @@
 {
-  "name": "@roc/egg-email",
+  "name": "egg-email-plugin",
   "version": "1.0.0",
   "description": "Email for Egg.js",
   "eggPlugin": {
