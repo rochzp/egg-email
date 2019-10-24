@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-email.git"
+    "url": "git+https://github.com/rochzp/egg-email.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/rochzp/egg-email/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-email#readme",
+  "homepage": "https://github.com/rochzp/egg-email#readme",
   "author": "Roc",
   "license": "MIT"
 }
